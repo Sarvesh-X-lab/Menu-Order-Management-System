@@ -1,6 +1,8 @@
 # Menu-Order-Management-System
 Menu Order Management System is a web app built with JSP, Servlets, JSTL, and Shery.js for placing and managing food orders online. It features a dynamic UI using HTML, CSS, and JavaScript, with admin control for menu management.
 
+---
+
 **📊 Features**
 
 Customer-Facing Features
@@ -19,9 +21,13 @@ Admin Panel Features
 
 🔒 Authentication & Access Control: Role-based access ensures only authorized users can manage menus and track orders.
 
+---
+
 **📻 Whole Project Demonstration ClIP Video**
 
 ▶️ [Project Walkthrough – Watch on Google Drive](https://drive.google.com/file/d/1DmBdryJIzUQsZy9yANCyxm30HPnSDw0t/view)
+
+---
 
 **🧩 Data & Architecture**
 
@@ -30,6 +36,8 @@ Backend: Java Servlets for routing and business logic, JDBC (or optionally Hiber
 Frontend: HTML5, CSS3, JavaScript (with libraries like Shery.js for interactivity), and Bootstrap for responsiveness.
 
 Templating: JSP for dynamic content rendering, JSTL for tag-based logic.
+
+---
 
 **🛠️ Technologies Used**
 
@@ -47,6 +55,7 @@ Shery.js for UI animation
 
 JDBC or Hibernate (optional)
 
+---
 
 **🚀 How to Use**
 
@@ -60,6 +69,8 @@ Access the system as a customer or admin through the login page.
 
 Use the navigation bar to manage orders or update menus.
 
+---
+
 **📌 Project Goals**
 
 Provide an intuitive, responsive UI for food ordering
@@ -70,6 +81,8 @@ Give admins full control over menu and order management
 
 Offer real-time interaction through AJAX & dynamic rendering
 
+---
+
 **📥 File Structure**
 
 📁 /WebContent – HTML, JSP, and frontend resources
@@ -78,15 +91,21 @@ Offer real-time interaction through AJAX & dynamic rendering
 
 📁 /lib – External dependencies and libraries
 
-***🤝 Contributing**
+---
+
+**🤝 Contributing**
 
 Feel free to fork the repository and enhance features like payment integration, user reviews, or real-time notifications. Pull requests are welcome.
+
+---
 
 **📬 Contact**
 
 For questions or feature suggestions, reach out on LinkedIn: [Sarvesh Chavan](https://linkedin.com/in/sarvesh-chavan)
 
 📝 Note: The entire system is fully dynamic. Menu items, user accounts, and order history can be updated and filtered in real time.
+
+---
 
 **TO DOWNLOAD THE PROJECT :-**
 
