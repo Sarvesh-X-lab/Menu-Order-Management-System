@@ -73,7 +73,9 @@ Offer real-time interaction through AJAX & dynamic rendering
 **📥 File Structure**
 
 📁 /WebContent – HTML, JSP, and frontend resources
+
 📁 /src – Servlet classes and data models
+
 📁 /lib – External dependencies and libraries
 
 ***🤝 Contributing**
