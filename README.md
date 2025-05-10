@@ -84,6 +84,6 @@ Feel free to fork the repository and enhance features like payment integration, 
 
 **📬 Contact**
 
-For questions or feature suggestions, reach out on LinkedIn: [Your Name or Link]
+For questions or feature suggestions, reach out on LinkedIn: [Sarvesh Chavan](https://linkedin.com/in/sarvesh-chavan)
 
 📝 Note: The entire system is fully dynamic. Menu items, user accounts, and order history can be updated and filtered in real time.
